@@ -1,0 +1,228 @@
+/****************************************
+    General
+*****************************************/
+
+html,
+body,
+.container {
+  height: 100%;
+}
+
+body {
+  background: #161522;
+  color: white;
+  width: 100%;
+  font-family: "Lato", sans-serif;
+}
+
+.container {
+  max-width: 90%;
+}
+
+.primary-text {
+  font-weight: 700;
+}
+
+.secondary-text {
+  font-weight: 400;
+}
+
+.ancillary-text {
+  font-weight: 400;
+}
+
+.btn {
+  font-weight: 700;
+}
+
+.btn-primary {
+  background: #1E1D2E;
+  border: 0;
+}
+
+.card {
+  background: #1E1D2E;
+  border: 0;
+  box-shadow: 3px 3px 3px 3px hsla(0, 0%, 0%, 0.2);
+}
+
+.scroll {
+  overflow-y: scroll;
+}
+
+/* TODO: find replacement Bootstrap class. */
+fieldset {
+  width: 100%;
+}
+
+/****************************************
+    Bootstrap Grid
+*****************************************/
+
+.container {
+  width: 100%;
+  padding: 15px 0 0 0;
+}
+
+.row {
+  height: 100%;
+  margin: 15px 0px;
+}
+
+.row .no-float {
+  float: none;
+  width: 100%;
+}
+
+.row-sm {
+  height: 10%;
+  margin-bottom: 3%;
+}
+
+.row-md {
+  height: 70%;
+}
+
+/****************************************
+    Navigation Bar
+*****************************************/
+
+.navbar-default {
+  background: #1E1D2E;
+}
+
+.navbar-default .navbar-brand {
+  color: white;
+}
+
+/****************************************
+    Inputs
+*****************************************/
+
+.form-section {
+  margin: 20px 0 0 0;
+}
+
+.form-control:enabled {
+  background: #1E1D2E;
+  color: white;
+}
+
+/****************************************
+    Data
+*****************************************/
+
+.card-top-header {
+  padding: 20px;
+  margin-bottom: 5%;
+}
+
+.data-section {
+  text-align: center;
+}
+
+.data-number {
+  font-weight: 700;
+  font-size: 4em;
+}
+
+.form-control {
+  background: #1E1D2E;
+  color: white;
+  border: 0;
+}
+
+.form-control-label {
+
+  font-size: 1.5em;
+}
+
+.issue-input {
+
+  box-shadow: 3px 3px 3px 3px hsla(0, 0%, 0%, 0.2);
+}
+
+.country-input-group {
+
+  margin-top: 10%;
+}
+
+.country-input {
+
+  background: #161522;
+}
+
+.country-input:enabled {
+  background: #161522;
+  color: white;
+}
+
+.issue-input select {
+  -moz-appearance:none; /* Firefox */
+  -webkit-appearance:none; /* Safari and Chrome */
+  appearance:none;
+}
+
+/****************************************
+    Map
+*****************************************/
+
+.map-div {
+  width: 100%;
+}
+
+#map-holder {
+  width: 100%;
+  height: 100%;
+}
+
+path {
+  fill: #1E1D2E;
+  stroke: white;
+  stroke-width: 1;
+}
+
+.neg-sen-4 {
+  fill: #B71C1C;
+}
+.neg-sen-3 {
+  fill: #D32F2F;
+}
+.neg-sen-2 {
+  fill: #F44336;
+}
+.neg-sen-1 {
+  fill: #EF5350;
+}
+
+.pos-sen-1 {
+  fill: #42A5F5;
+}
+.pos-sen-2 {
+  fill: #2196F3;
+}
+.pos-sen-3 {
+  fill: #1976D2;
+}
+.pos-sen-4 {
+  fill: #0D47A1;
+}
+
+/****************************************
+    Footer
+*****************************************/
+
+footer {
+  background: #1E1D2E;
+  box-shadow: 3px 3px 3px 3px hsla(0, 0%, 0%, 0.2);
+  color: white;
+  text-align: center;
+}
+
+a {
+  color: white;
+}
+
+a:hover {
+  color: white;
+}

@@ -1,0 +1,83 @@
+{% extends "layout.html" %} {% block content %}
+
+<!-- Country Input -->
+<div class="row row-sm">
+
+<div class="col-sm-12">
+    <form method="POST" action="">
+
+        {{ social_issue_input.hidden_tag() }}
+
+        <fieldset class="form-group">
+
+                {{ social_issue_input.social.label(class="form-control-label primary-text") }}  
+
+            <div class="input-group issue-input">
+
+                {{ social_issue_input.social(class="form-control form-control-lg select-inset") }}
+
+                <div class="input-group-append">
+
+                    {{ social_issue_input.submit(class="btn btn-primary") }}
+
+                </div>
+
+            </div>
+        </fieldset>
+    </form>
+</div>
+</div>
+
+<!-- Map -->
+<div class="row row-md">
+
+    <div class="col-sm-8">
+
+        <div id="map-holder"></div>
+    </div>
+
+    <div class="col-sm-4 card scroll">
+
+        <form method="POST" action="">
+
+            {{ country_input.hidden_tag() }}
+
+            <fieldset class="form-group country-input-group">
+
+                <div class="input-group">
+    
+                    {{ country_input.country(class="form-control form-control-lg country-input") }}
+
+                    <div class="input-group-append">
+
+                        <button class="btn btn-primary" onclick="displayCountry(); return false">Search</button>
+
+                    </div>
+                </div>
+            </fieldset>
+        </form>
+
+        <h5 class="card-top-header form-control-label primary-text">Official Data</h5>
+
+        <div class="data-section">
+
+            <p class="data-number">57%</p>
+            <p class="ancillary-text">of the world's women are in the labor force.</p>
+        </div>
+
+        <div class="data-section">
+
+            <p class="data-number">62 mil</p>
+            <p class="ancillary-text">girls are denied an education all around the world.</p>
+        </div>
+
+        <div class="data-section">
+
+            <p class="data-number">32%</p>
+            <p class="ancillary-text">of all national parliamentarians are female.</p>
+        </div>
+    </div>
+
+</div>
+
+{% endblock content %}
