@@ -1,0 +1,519 @@
+Year,Country / territory of asylum/residence,Origin,RSD procedure type / level,Applied during year,statistics.filter.decisions_recognized,statistics.filter.decisions_other,Rejected,Otherwise closed
+2008,United States of America,Afghanistan,G / EO,22,11,0,2,2
+2008,United States of America,Afghanistan,G / IN,57,67,0,11,3
+2008,United States of America,Bangladesh,G / IN,103,24,0,78,26
+2008,United States of America,Bangladesh,G / EO,92,45,0,9,45
+2008,United States of America,Chile,G / IN,7,2,0,2,3
+2008,United States of America,Chile,G / EO,11,0,0,0,7
+2008,United States of America,Dem. Rep. of the Congo,G / IN,75,39,0,44,13
+2008,United States of America,Dem. Rep. of the Congo,G / EO,8,12,0,8,6
+2008,United States of America,Congo,G / IN,74,45,0,44,15
+2008,United States of America,Congo,G / EO,25,46,0,22,32
+2008,United States of America,Cuba,G / IN,82,63,0,42,77
+2008,United States of America,Cuba,G / EO,288,1,0,3,68
+2008,United States of America,Dominican Rep.,G / IN,10,2,0,4,4
+2008,United States of America,Dominican Rep.,G / EO,49,0,0,0,4
+2008,United States of America,Algeria,G / EO,21,1,0,1,1
+2008,United States of America,Algeria,G / IN,23,10,0,14,4
+2008,United States of America,Ecuador,G / IN,90,6,0,22,77
+2008,United States of America,Ecuador,G / EO,78,5,0,11,27
+2008,United States of America,Guyana,G / IN,9,2,0,2,6
+2008,United States of America,Guyana,G / EO,56,2,0,5,11
+2008,United States of America,Haiti,G / IN,1321,587,0,1067,515
+2008,United States of America,Haiti,G / EO,757,375,0,1402,1917
+2008,United States of America,Iran (Islamic Rep. of),G / IN,222,249,0,87,30
+2008,United States of America,Iran (Islamic Rep. of),G / EO,112,51,0,14,57
+2008,United States of America,Iraq,G / IN,463,420,0,93,21
+2008,United States of America,Iraq,G / EO,346,92,0,16,32
+2008,United States of America,Libya,G / IN,3,3,0,3,0
+2008,United States of America,Libya,G / EO,1,0,0,0,0
+2008,United States of America,Myanmar,G / IN,221,142,0,76,22
+2008,United States of America,Myanmar,G / EO,139,28,0,9,9
+2008,United States of America,Nigeria,G / IN,71,38,0,43,21
+2008,United States of America,Nigeria,G / EO,106,14,0,22,45
+2008,United States of America,Pakistan,G / IN,253,118,0,129,60
+2008,United States of America,Pakistan,G / EO,238,70,0,32,83
+2008,United States of America,Rwanda,G / IN,87,64,0,43,3
+2008,United States of America,Rwanda,G / EO,2,10,0,3,1
+2008,United States of America,Sudan,G / IN,132,92,0,63,9
+2008,United States of America,Sudan,G / EO,31,18,0,8,21
+2008,United States of America,Senegal,G / IN,86,10,0,71,15
+2008,United States of America,Senegal,G / EO,29,10,0,16,20
+2008,United States of America,El Salvador,G / IN,348,260,0,3934,5176
+2008,United States of America,El Salvador,G / EO,2441,33,0,274,3147
+2008,United States of America,Uganda,G / IN,72,58,0,33,9
+2008,United States of America,Uganda,G / EO,17,18,0,3,17
+2008,United States of America,Venezuela (Bolivarian Republic of),G / IN,586,348,0,307,36
+2008,United States of America,Venezuela (Bolivarian Republic of),G / EO,123,260,0,315,287
+2008,United States of America,Yemen,G / IN,22,22,0,9,2
+2008,United States of America,Yemen,G / EO,23,6,0,13,3
+2009,United States of America,Afghanistan,G / IN,70,64,0,2,15
+2009,United States of America,Afghanistan,G / EO,31,7,0,6,22
+2009,United States of America,Bangladesh,G / IN,93,21,0,2,102
+2009,United States of America,Bangladesh,G / EO,63,47,0,52,111
+2009,United States of America,Botswana,G / EO,2,0,0,0,0
+2009,United States of America,Chile,G / IN,2,1,0,1,2
+2009,United States of America,Chile,G / EO,18,6,0,7,7
+2009,United States of America,Dem. Rep. of the Congo,G / IN,62,37,0,9,31
+2009,United States of America,Dem. Rep. of the Congo,G / EO,33,19,0,13,10
+2009,United States of America,Congo,G / IN,75,43,0,1,49
+2009,United States of America,Congo,G / EO,30,48,0,24,74
+2009,United States of America,Cuba,G / IN,40,29,0,2,46
+2009,United States of America,Cuba,G / EO,300,15,0,99,226
+2009,United States of America,Dominican Rep.,G / IN,5,1,0,1,8
+2009,United States of America,Dominican Rep.,G / EO,67,3,0,27,31
+2009,United States of America,Algeria,G / IN,17,5,0,1,10
+2009,United States of America,Algeria,G / EO,11,6,0,13,17
+2009,United States of America,Ecuador,G / IN,75,7,0,1,80
+2009,United States of America,Ecuador,G / EO,99,6,0,28,94
+2009,United States of America,Guyana,G / IN,23,2,0,0,21
+2009,United States of America,Guyana,G / EO,48,0,0,23,40
+2009,United States of America,Haiti,G / IN,1101,458,0,48,916
+2009,United States of America,Haiti,G / EO,548,406,0,1589,1262
+2009,United States of America,Iran (Islamic Rep. of),G / IN,237,211,0,4,82
+2009,United States of America,Iran (Islamic Rep. of),G / EO,107,91,0,48,136
+2009,United States of America,Iraq,G / IN,322,384,0,14,72
+2009,United States of America,Iraq,G / EO,221,364,0,49,93
+2009,United States of America,Libya,G / IN,3,2,0,0,1
+2009,United States of America,Libya,G / EO,3,5,0,2,3
+2009,United States of America,Myanmar,G / IN,218,165,0,11,88
+2009,United States of America,Myanmar,G / EO,70,108,0,23,42
+2009,United States of America,Nigeria,G / IN,43,17,0,3,33
+2009,United States of America,Nigeria,G / EO,109,29,0,73,92
+2009,United States of America,Pakistan,G / IN,252,124,0,12,171
+2009,United States of America,Pakistan,G / EO,239,99,0,114,242
+2009,United States of America,Rwanda,G / IN,95,49,0,12,43
+2009,United States of America,Rwanda,G / EO,6,24,0,4,25
+2009,United States of America,Sudan,G / EO,51,40,0,33,53
+2009,United States of America,Sudan,G / IN,86,60,0,6,37
+2009,United States of America,Senegal,G / IN,105,20,0,0,94
+2009,United States of America,Senegal,G / EO,28,24,0,30,70
+2009,United States of America,El Salvador,G / IN,453,178,0,830,2043
+2009,United States of America,El Salvador,G / EO,1913,117,0,1236,4426
+2009,United States of America,Uganda,G / EO,19,28,0,21,25
+2009,United States of America,Uganda,G / IN,71,57,0,3,34
+2009,United States of America,Venezuela (Bolivarian Republic of),G / EO,113,191,0,295,356
+2009,United States of America,Venezuela (Bolivarian Republic of),G / IN,317,187,0,22,207
+2009,United States of America,Yemen,G / EO,24,7,0,9,22
+2009,United States of America,Yemen,G / IN,28,19,0,1,16
+2010,United States of America,Afghanistan,G / IN,113,81,0,3,19
+2010,United States of America,Afghanistan,G / EO,43,6,0,10,23
+2010,United States of America,Bangladesh,G / IN,91,23,0,2,79
+2010,United States of America,Bangladesh,G / EO,93,48,0,27,121
+2010,United States of America,Botswana,G / IN,2,0,0,0,2
+2010,United States of America,Botswana,G / EO,2,0,0,0,1
+2010,United States of America,Chile,G / IN,9,2,0,0,4
+2010,United States of America,Chile,G / EO,18,1,0,7,12
+2010,United States of America,Dem. Rep. of the Congo,G / IN,71,33,0,3,38
+2010,United States of America,Dem. Rep. of the Congo,G / EO,31,16,0,29,26
+2010,United States of America,Congo,G / IN,120,60,0,2,37
+2010,United States of America,Congo,G / EO,24,56,0,25,38
+2010,United States of America,Cuba,G / IN,46,18,0,4,30
+2010,United States of America,Cuba,G / EO,241,9,0,106,221
+2010,United States of America,Dominican Rep.,G / IN,11,1,0,1,7
+2010,United States of America,Dominican Rep.,G / EO,109,11,0,30,36
+2010,United States of America,Algeria,G / IN,13,7,0,0,10
+2010,United States of America,Algeria,G / EO,8,1,0,5,7
+2010,United States of America,Ecuador,G / IN,238,6,0,0,201
+2010,United States of America,Ecuador,G / EO,166,7,0,63,91
+2010,United States of America,Guyana,G / EO,52,3,0,13,43
+2010,United States of America,Guyana,G / IN,8,6,0,0,12
+2010,United States of America,Haiti,G / EO,237,167,0,496,2717
+2010,United States of America,Haiti,G / IN,986,522,0,73,423
+2010,United States of America,Iran (Islamic Rep. of),G / EO,120,83,0,46,130
+2010,United States of America,Iran (Islamic Rep. of),G / IN,384,309,0,9,69
+2010,United States of America,Iraq,G / EO,141,149,0,46,64
+2010,United States of America,Iraq,G / IN,272,210,0,12,42
+2010,United States of America,Libya,G / EO,0,5,0,1,2
+2010,United States of America,Libya,G / IN,5,4,0,0,2
+2010,United States of America,Myanmar,G / EO,39,80,0,20,55
+2010,United States of America,Myanmar,G / IN,201,138,0,12,59
+2010,United States of America,Nigeria,G / EO,144,35,0,70,84
+2010,United States of America,Nigeria,G / IN,60,21,0,4,39
+2010,United States of America,Pakistan,G / EO,222,113,0,123,207
+2010,United States of America,Pakistan,G / IN,316,119,0,12,195
+2010,United States of America,Rwanda,G / EO,5,25,0,4,18
+2010,United States of America,Rwanda,G / IN,122,78,0,5,26
+2010,United States of America,Sudan,G / EO,46,35,0,25,42
+2010,United States of America,Sudan,G / IN,110,56,0,4,43
+2010,United States of America,Senegal,G / EO,34,18,0,28,61
+2010,United States of America,Senegal,G / IN,150,8,0,1,141
+2010,United States of America,El Salvador,G / EO,1992,146,0,1103,3138
+2010,United States of America,El Salvador,G / IN,693,131,0,123,893
+2010,United States of America,Uganda,G / EO,9,26,0,22,18
+2010,United States of America,Uganda,G / IN,130,74,0,2,39
+2010,United States of America,Venezuela (Bolivarian Republic of),G / EO,120,181,0,207,290
+2010,United States of America,Venezuela (Bolivarian Republic of),G / IN,464,233,0,31,153
+2010,United States of America,Yemen,G / EO,27,7,0,11,27
+2010,United States of America,Yemen,G / IN,50,24,0,0,14
+2011,United States of America,Afghanistan,G / IN,159,104,0,1,20
+2011,United States of America,Afghanistan,G / EO,63,19,0,25,29
+2011,United States of America,Bangladesh,G / IN,146,20,0,1,109
+2011,United States of America,Bangladesh,G / EO,220,47,0,50,159
+2011,United States of America,Botswana,G / IN,2,0,0,0,2
+2011,United States of America,Botswana,G / EO,0,0,0,1,2
+2011,United States of America,Chile,G / IN,14,2,0,0,9
+2011,United States of America,Chile,G / EO,9,3,0,8,5
+2011,United States of America,Dem. Rep. of the Congo,G / IN,93,61,0,2,32
+2011,United States of America,Dem. Rep. of the Congo,G / EO,23,13,0,16,21
+2011,United States of America,Congo,G / IN,183,76,0,10,66
+2011,United States of America,Congo,G / EO,15,60,0,22,42
+2011,United States of America,Cuba,G / IN,45,15,0,2,22
+2011,United States of America,Cuba,G / EO,197,13,0,82,187
+2011,United States of America,Dominican Rep.,G / IN,24,1,0,0,16
+2011,United States of America,Dominican Rep.,G / EO,190,9,0,53,88
+2011,United States of America,Algeria,G / IN,24,11,0,0,8
+2011,United States of America,Algeria,G / EO,13,5,0,15,10
+2011,United States of America,Ecuador,G / IN,486,10,0,0,408
+2011,United States of America,Ecuador,G / EO,321,19,0,55,180
+2011,United States of America,Guyana,G / IN,12,0,0,0,6
+2011,United States of America,Guyana,G / EO,43,6,0,32,34
+2011,United States of America,Haiti,G / IN,793,541,0,59,268
+2011,United States of America,Haiti,G / EO,584,61,0,158,845
+2011,United States of America,Iran (Islamic Rep. of),G / IN,499,336,0,15,65
+2011,United States of America,Iran (Islamic Rep. of),G / EO,96,112,0,51,114
+2011,United States of America,Iraq,G / IN,329,230,0,27,60
+2011,United States of America,Iraq,G / EO,157,115,0,55,60
+2011,United States of America,Libya,G / IN,164,52,0,30,50
+2011,United States of America,Libya,G / EO,6,2,0,0,15
+2011,United States of America,Myanmar,G / IN,219,139,0,13,61
+2011,United States of America,Myanmar,G / EO,27,72,0,22,29
+2011,United States of America,Nigeria,G / IN,102,29,0,7,53
+2011,United States of America,Nigeria,G / EO,158,32,0,82,92
+2011,United States of America,Pakistan,G / IN,419,169,0,6,195
+2011,United States of America,Pakistan,G / EO,255,169,0,113,229
+2011,United States of America,Rwanda,G / IN,138,68,0,8,59
+2011,United States of America,Rwanda,G / EO,7,19,0,13,15
+2011,United States of America,Sudan,G / IN,148,92,0,12,42
+2011,United States of America,Sudan,G / EO,68,42,0,44,48
+2011,United States of America,Senegal,G / IN,157,10,0,2,136
+2011,United States of America,Senegal,G / EO,19,26,0,39,64
+2011,United States of America,El Salvador,G / IN,1030,113,0,108,863
+2011,United States of America,El Salvador,G / EO,3294,180,0,1336,2669
+2011,United States of America,Uganda,G / IN,194,102,0,2,60
+2011,United States of America,Uganda,G / EO,27,32,0,17,24
+2011,United States of America,Venezuela (Bolivarian Republic of),G / EO,120,201,0,159,237
+2011,United States of America,Venezuela (Bolivarian Republic of),G / IN,644,437,0,33,198
+2011,United States of America,Yemen,G / EO,27,36,0,8,35
+2011,United States of America,Yemen,G / IN,50,24,0,1,43
+2012,United States of America,Afghanistan,G / IN,160,118,0,4,25
+2012,United States of America,Afghanistan,G / EO,44,30,0,13,37
+2012,United States of America,Bangladesh,G / IN,144,22,0,2,106
+2012,United States of America,Botswana,G / IN,1,0,0,0,1
+2012,United States of America,Botswana,G / EO,2,1,0,0,1
+2012,United States of America,Chile,G / IN,14,3,0,0,15
+2012,United States of America,Chile,G / EO,12,0,0,9,5
+2012,United States of America,Dem. Rep. of the Congo,G / IN,150,72,0,6,30
+2012,United States of America,Dem. Rep. of the Congo,G / EO,26,13,0,8,25
+2012,United States of America,Congo,G / IN,186,81,0,21,57
+2012,United States of America,Congo,G / EO,24,64,0,30,62
+2012,United States of America,Cuba,G / IN,57,25,0,6,24
+2012,United States of America,Cuba,G / EO,138,7,0,59,117
+2012,United States of America,Dominican Rep.,G / IN,67,6,0,2,55
+2012,United States of America,Dominican Rep.,G / EO,234,9,0,63,135
+2012,United States of America,Algeria,G / IN,11,10,0,1,8
+2012,United States of America,Algeria,G / EO,13,8,0,3,12
+2012,United States of America,Ecuador,G / IN,950,15,0,0,681
+2012,United States of America,Ecuador,G / EO,444,15,0,41,256
+2012,United States of America,Guyana,G / IN,25,6,0,0,19
+2012,United States of America,Guyana,G / EO,30,7,0,17,42
+2012,United States of America,Haiti,G / IN,960,546,0,52,259
+2012,United States of America,Haiti,G / EO,652,55,0,177,587
+2012,United States of America,Iran (Islamic Rep. of),G / IN,652,478,0,11,74
+2012,United States of America,Iran (Islamic Rep. of),G / EO,115,90,0,39,118
+2012,United States of America,Iraq,G / IN,480,258,0,28,64
+2012,United States of America,Iraq,G / EO,112,109,0,58,73
+2012,United States of America,Libya,G / IN,48,20,0,19,15
+2012,United States of America,Libya,G / EO,4,6,0,3,38
+2012,United States of America,Myanmar,G / IN,99,73,0,5,50
+2012,United States of America,Myanmar,G / EO,37,54,0,21,37
+2012,United States of America,Nigeria,G / IN,163,59,0,7,76
+2012,United States of America,Nigeria,G / EO,174,39,0,104,119
+2012,United States of America,Pakistan,G / IN,399,149,0,4,152
+2012,United States of America,Pakistan,G / EO,187,185,0,98,261
+2012,United States of America,Rwanda,G / IN,144,74,0,4,50
+2012,United States of America,Rwanda,G / EO,12,21,0,12,24
+2012,United States of America,Sudan,G / IN,146,99,0,9,33
+2012,United States of America,Sudan,G / EO,38,48,0,30,39
+2012,United States of America,Senegal,G / IN,127,19,0,0,98
+2012,United States of America,Senegal,G / EO,19,26,0,19,108
+2012,United States of America,El Salvador,G / IN,845,144,0,67,795
+2012,United States of America,El Salvador,G / EO,3742,186,0,1131,3097
+2012,United States of America,Uganda,G / IN,170,80,0,11,35
+2012,United States of America,Uganda,G / EO,19,24,0,16,38
+2012,United States of America,Venezuela (Bolivarian Republic of),G / EO,104,101,0,108,261
+2012,United States of America,Venezuela (Bolivarian Republic of),G / IN,612,492,0,33,153
+2012,United States of America,Yemen,G / IN,67,30,0,7,28
+2012,United States of America,Yemen,G / EO,19,11,0,12,22
+2013,United States of America,Afghanistan,G / IN,174,98,0,3,31
+2013,United States of America,Afghanistan,G / EO,32,16,0,10,12
+2013,United States of America,Bangladesh,G / IN,212,37,0,3,101
+2013,United States of America,Bangladesh,G / EO,112,69,0,29,103
+2013,United States of America,Botswana,G / IN,1,0,0,0,0
+2013,United States of America,Chile,G / IN,13,1,0,1,6
+2013,United States of America,Chile,G / EO,7,0,0,4,13
+2013,United States of America,Dem. Rep. of the Congo,G / IN,230,50,0,7,35
+2013,United States of America,Dem. Rep. of the Congo,G / EO,14,15,0,8,12
+2013,United States of America,Congo,G / IN,286,81,0,6,63
+2013,United States of America,Congo,G / EO,15,43,0,21,30
+2013,United States of America,Cuba,G / IN,31,0,0,0,14
+2013,United States of America,Cuba,G / EO,118,6,0,51,71
+2013,United States of America,Dominican Rep.,G / IN,44,4,0,0,25
+2013,United States of America,Dominican Rep.,G / EO,164,6,0,66,84
+2013,United States of America,Algeria,G / IN,23,6,0,0,6
+2013,United States of America,Algeria,G / EO,5,0,0,0,5
+2013,United States of America,Ecuador,G / IN,1279,9,0,0,720
+2013,United States of America,Ecuador,G / EO,569,28,0,68,305
+2013,United States of America,Guyana,G / EO,27,4,0,17,5
+2013,United States of America,Guyana,G / IN,18,3,0,0,7
+2013,United States of America,Haiti,G / EO,550,42,0,270,185
+2013,United States of America,Haiti,G / IN,1329,324,0,41,240
+2013,United States of America,Iran (Islamic Rep. of),G / EO,63,67,0,36,72
+2013,United States of America,Iran (Islamic Rep. of),G / IN,954,498,0,4,60
+2013,United States of America,Iraq,G / EO,62,52,0,34,62
+2013,United States of America,Iraq,G / IN,903,390,0,20,71
+2013,United States of America,Libya,G / EO,0,0,0,0,13
+2013,United States of America,Libya,G / IN,69,15,0,12,8
+2013,United States of America,Myanmar,G / EO,15,36,0,7,20
+2013,United States of America,Myanmar,G / IN,99,53,0,1,28
+2013,United States of America,Nigeria,G / EO,136,31,0,57,55
+2013,United States of America,Nigeria,G / IN,153,49,0,6,33
+2013,United States of America,Pakistan,G / EO,87,97,0,50,206
+2013,United States of America,Pakistan,G / IN,494,190,0,6,140
+2013,United States of America,Rwanda,G / EO,26,28,0,12,10
+2013,United States of America,Rwanda,G / IN,204,40,0,4,65
+2013,United States of America,Sudan,G / EO,34,25,0,30,30
+2013,United States of America,Sudan,G / IN,148,67,0,3,32
+2013,United States of America,Senegal,G / EO,15,18,0,23,72
+2013,United States of America,Senegal,G / IN,75,5,0,0,41
+2013,United States of America,El Salvador,G / EO,4418,186,0,1270,2137
+2013,United States of America,El Salvador,G / IN,1274,76,0,29,596
+2013,United States of America,Uganda,G / EO,17,28,0,12,20
+2013,United States of America,Uganda,G / IN,234,54,0,1,24
+2013,United States of America,Venezuela (Bolivarian Republic of),G / EO,42,79,0,79,185
+2013,United States of America,Venezuela (Bolivarian Republic of),G / IN,855,255,0,18,94
+2013,United States of America,Yemen,G / EO,26,11,0,24,16
+2013,United States of America,Yemen,G / IN,73,26,0,3,21
+2014,United States of America,Afghanistan,G / IN,273,155,0,3,30
+2014,United States of America,Afghanistan,G / EO,24,17,0,6,5
+2014,United States of America,Bangladesh,G / EO,373,67,9,43,118
+2014,United States of America,Bangladesh,G / IN,797,103,0,55,220
+2014,United States of America,Botswana,G / EO,0,0,0,0,0
+2014,United States of America,Botswana,G / IN,2,0,0,0,0
+2014,United States of America,Chile,G / IN,13,0,0,1,5
+2014,United States of America,Chile,G / EO,9,0,0,5,9
+2014,United States of America,Dem. Rep. of the Congo,G / IN,225,58,0,9,43
+2014,United States of America,Dem. Rep. of the Congo,G / EO,22,8,4,9,0
+2014,United States of America,Congo,G / IN,274,57,0,18,58
+2014,United States of America,Congo,G / EO,21,15,0,5,21
+2014,United States of America,Cuba,G / IN,77,12,0,5,17
+2014,United States of America,Cuba,G / EO,92,10,12,42,58
+2014,United States of America,Dominican Rep.,G / IN,80,10,0,14,16
+2014,United States of America,Dominican Rep.,G / EO,170,13,7,49,88
+2014,United States of America,Algeria,G / IN,18,10,0,0,8
+2014,United States of America,Algeria,G / EO,5,0,0,0,0
+2014,United States of America,Ecuador,G / IN,2555,55,0,538,625
+2014,United States of America,Ecuador,G / EO,990,23,25,110,509
+2014,United States of America,Guyana,G / EO,23,0,0,8,20
+2014,United States of America,Guyana,G / IN,38,6,0,7,7
+2014,United States of America,Haiti,G / EO,600,72,30,350,183
+2014,United States of America,Haiti,G / IN,1596,482,0,43,439
+2014,United States of America,Iran (Islamic Rep. of),G / EO,63,58,13,21,54
+2014,United States of America,Iran (Islamic Rep. of),G / IN,1052,483,0,19,106
+2014,United States of America,Iraq,G / EO,97,66,20,36,59
+2014,United States of America,Iraq,G / IN,1300,422,0,10,101
+2014,United States of America,Libya,G / IN,154,16,0,5,10
+2014,United States of America,Libya,G / EO,5,0,6,0,4
+2014,United States of America,Myanmar,G / IN,120,39,0,5,36
+2014,United States of America,Myanmar,G / EO,17,30,5,8,6
+2014,United States of America,Nigeria,G / IN,331,62,0,15,41
+2014,United States of America,Nigeria,G / EO,217,58,14,71,92
+2014,United States of America,Pakistan,G / IN,650,161,0,26,105
+2014,United States of America,Pakistan,G / EO,86,102,17,48,161
+2014,United States of America,Rwanda,G / IN,156,59,0,5,25
+2014,United States of America,Rwanda,G / EO,16,42,4,6,0
+2014,United States of America,Sudan,G / IN,202,76,0,5,34
+2014,United States of America,Sudan,G / EO,40,19,6,30,24
+2014,United States of America,Senegal,G / IN,104,15,0,19,12
+2014,United States of America,Senegal,G / EO,11,21,4,19,48
+2014,United States of America,El Salvador,G / IN,3211,567,0,203,1018
+2014,United States of America,El Salvador,G / EO,6882,247,126,1430,2254
+2014,United States of America,Uganda,G / IN,241,71,0,6,18
+2014,United States of America,Uganda,G / EO,15,21,5,5,17
+2014,United States of America,Venezuela (Bolivarian Republic of),G / IN,3026,226,0,36,125
+2014,United States of America,Venezuela (Bolivarian Republic of),G / EO,91,98,27,58,120
+2014,United States of America,Yemen,G / IN,125,36,0,3,17
+2014,United States of America,Yemen,G / EO,17,15,4,4,14
+2015,United States of America,Afghanistan,G / EO,40,13,0,16,14
+2015,United States of America,Afghanistan,G / IN,298,131,0,1,39
+2015,United States of America,Bangladesh,G / EO,577,91,0,220,107
+2015,United States of America,Bangladesh,G / IN,964,62,0,3,170
+2015,United States of America,Botswana,G / EO,0,0,0,0,0
+2015,United States of America,Botswana,G / IN,3,0,0,0,0
+2015,United States of America,Chile,G / EO,9,0,0,5,5
+2015,United States of America,Chile,G / IN,14,1,0,0,9
+2015,United States of America,Dem. Rep. of the Congo,G / EO,17,13,0,10,8
+2015,United States of America,Dem. Rep. of the Congo,G / IN,291,81,0,2,55
+2015,United States of America,Congo,G / EO,16,18,0,8,21
+2015,United States of America,Congo,G / IN,393,80,0,10,68
+2015,United States of America,Cuba,G / EO,112,8,0,49,59
+2015,United States of America,Cuba,G / IN,23,6,0,0,22
+2015,United States of America,Dominican Rep.,G / EO,147,6,13,43,89
+2015,United States of America,Dominican Rep.,G / IN,83,6,0,0,19
+2015,United States of America,Algeria,G / EO,4,0,0,0,0
+2015,United States of America,Algeria,G / IN,50,4,0,0,6
+2015,United States of America,Ecuador,G / EO,660,38,0,72,788
+2015,United States of America,Ecuador,G / IN,3072,158,0,0,966
+2015,United States of America,Guyana,G / IN,46,4,0,0,9
+2015,United States of America,Guyana,G / EO,16,0,0,8,23
+2015,United States of America,Haiti,G / IN,1966,275,0,6,342
+2015,United States of America,Haiti,G / EO,254,43,0,140,500
+2015,United States of America,Iran (Islamic Rep. of),G / IN,1011,433,0,4,141
+2015,United States of America,Iran (Islamic Rep. of),G / EO,57,40,0,9,66
+2015,United States of America,Iraq,G / IN,1203,484,0,10,174
+2015,United States of America,Iraq,G / EO,87,60,0,20,87
+2015,United States of America,Libya,G / IN,264,21,0,7,14
+2015,United States of America,Libya,G / EO,8,0,0,0,4
+2015,United States of America,Myanmar,G / IN,155,39,0,3,17
+2015,United States of America,Myanmar,G / EO,20,18,0,12,20
+2015,United States of America,Nigeria,G / IN,580,70,0,2,67
+2015,United States of America,Nigeria,G / EO,190,72,0,65,77
+2015,United States of America,Pakistan,G / IN,926,196,0,3,200
+2015,United States of America,Pakistan,G / EO,142,58,0,48,168
+2015,United States of America,Rwanda,G / IN,128,68,0,0,53
+2015,United States of America,Rwanda,G / EO,10,16,0,0,14
+2015,United States of America,Sudan,G / IN,228,85,0,1,24
+2015,United States of America,Sudan,G / EO,24,17,0,9,13
+2015,United States of America,Senegal,G / EO,18,13,0,7,51
+2015,United States of America,Senegal,G / IN,110,16,0,0,33
+2015,United States of America,El Salvador,G / EO,10965,371,80,1668,4473
+2015,United States of America,El Salvador,G / IN,7918,2070,0,22,3842
+2015,United States of America,Uganda,G / IN,374,116,0,1,52
+2015,United States of America,Uganda,G / EO,6,10,0,0,15
+2015,United States of America,Venezuela (Bolivarian Republic of),G / IN,7307,244,0,5,98
+2015,United States of America,Venezuela (Bolivarian Republic of),G / EO,62,22,0,34,122
+2015,United States of America,Yemen,G / IN,409,39,0,0,20
+2015,United States of America,Yemen,G / EO,17,4,0,4,13
+2016,United States of America,Afghanistan,G / EO,48,27,0,10,38
+2016,United States of America,Afghanistan,G / IN,263,91,0,1,38
+2016,United States of America,Bangladesh,G / IN,966,23,0,0,129
+2016,United States of America,Bangladesh,G / EO,575,91,0,119,187
+2016,United States of America,Botswana,G / EO,0,0,0,0,0
+2016,United States of America,Botswana,G / IN,0,0,0,0,0
+2016,United States of America,Chile,G / IN,31,0,0,0,2
+2016,United States of America,Chile,G / EO,7,0,0,0,12
+2016,United States of America,Dem. Rep. of the Congo,G / EO,31,7,0,6,18
+2016,United States of America,Dem. Rep. of the Congo,G / IN,354,53,0,0,47
+2016,United States of America,Congo,G / EO,35,28,0,12,22
+2016,United States of America,Congo,G / IN,395,50,0,0,37
+2016,United States of America,Cuba,G / IN,30,2,0,0,17
+2016,United States of America,Cuba,G / EO,117,8,0,57,48
+2016,United States of America,Dominican Rep.,G / IN,120,1,0,0,19
+2016,United States of America,Dominican Rep.,G / EO,242,6,0,48,117
+2016,United States of America,Algeria,G / EO,4,0,0,0,8
+2016,United States of America,Algeria,G / IN,59,6,0,0,5
+2016,United States of America,Ecuador,G / IN,3063,88,0,0,1038
+2016,United States of America,Ecuador,G / EO,1360,51,0,95,1431
+2016,United States of America,Guyana,G / IN,76,1,0,0,20
+2016,United States of America,Guyana,G / EO,14,0,0,7,23
+2016,United States of America,Haiti,G / EO,514,30,0,159,503
+2016,United States of America,Haiti,G / IN,3455,91,0,10,254
+2016,United States of America,Iran (Islamic Rep. of),G / EO,66,52,0,19,114
+2016,United States of America,Iran (Islamic Rep. of),G / IN,925,278,0,4,92
+2016,United States of America,Iraq,G / EO,90,30,0,36,97
+2016,United States of America,Iraq,G / IN,1267,461,0,7,170
+2016,United States of America,Libya,G / IN,353,20,0,2,24
+2016,United States of America,Libya,G / EO,0,0,0,0,0
+2016,United States of America,Myanmar,G / EO,28,12,0,8,17
+2016,United States of America,Myanmar,G / IN,196,13,0,0,11
+2016,United States of America,Nigeria,G / IN,1092,52,0,2,55
+2016,United States of America,Nigeria,G / EO,216,53,0,57,99
+2016,United States of America,Pakistan,G / EO,308,83,0,47,224
+2016,United States of America,Pakistan,G / IN,1251,152,0,0,138
+2016,United States of America,Rwanda,G / IN,133,59,0,0,42
+2016,United States of America,Rwanda,G / EO,5,20,0,0,17
+2016,United States of America,Sudan,G / EO,33,26,0,12,4
+2016,United States of America,Sudan,G / IN,280,54,0,2,16
+2016,United States of America,Senegal,G / IN,95,11,0,0,17
+2016,United States of America,Senegal,G / EO,107,11,0,33,103
+2016,United States of America,El Salvador,G / EO,23480,924,0,2636,5432
+2016,United States of America,El Salvador,G / IN,10140,1767,0,18,3467
+2016,United States of America,Uganda,G / EO,17,16,0,0,22
+2016,United States of America,Uganda,G / IN,528,68,0,0,50
+2016,United States of America,Venezuela (Bolivarian Republic of),G / IN,18155,176,0,0,151
+2016,United States of America,Venezuela (Bolivarian Republic of),G / EO,157,35,0,55,147
+2016,United States of America,Yemen,G / EO,17,5,0,0,20
+2016,United States of America,Yemen,G / IN,212,45,0,0,34
+2017,United States of America,Afghanistan,G / AR,0,0,0,0,6
+2017,United States of America,Afghanistan,G / IN,112,101,0,35,32
+2017,United States of America,Afghanistan,G / EO,65,24,0,16,9
+2017,United States of America,Bangladesh,G / EO,654,91,0,80,35
+2017,United States of America,Bangladesh,G / AR,0,69,0,10,71
+2017,United States of America,Bangladesh,G / IN,794,71,0,270,124
+2017,United States of America,Botswana,G / IN,0,0,0,0,0
+2017,United States of America,Chile,G / EO,22,0,0,0,0
+2017,United States of America,Chile,G / AR,0,0,0,0,0
+2017,United States of America,Chile,G / IN,46,0,0,0,13
+2017,United States of America,Dem. Rep. of the Congo,G / EO,117,16,0,32,0
+2017,United States of America,Dem. Rep. of the Congo,G / AR,0,12,0,0,0
+2017,United States of America,Dem. Rep. of the Congo,G / IN,318,89,0,84,22
+2017,United States of America,Congo,G / EO,64,18,0,31,10
+2017,United States of America,Congo,G / AR,0,19,0,0,10
+2017,United States of America,Congo,G / IN,411,86,0,63,15
+2017,United States of America,Cuba,G / EO,730,75,0,220,76
+2017,United States of America,Cuba,G / AR,0,0,0,0,0
+2017,United States of America,Cuba,G / IN,40,0,0,0,18
+2017,United States of America,Dominican Rep.,G / EO,258,7,0,66,102
+2017,United States of America,Dominican Rep.,G / AR,0,0,0,0,9
+2017,United States of America,Dominican Rep.,G / IN,121,0,0,0,47
+2017,United States of America,Algeria,G / AR,0,0,0,0,0
+2017,United States of America,Algeria,G / IN,121,10,0,7,0
+2017,United States of America,Algeria,G / EO,9,0,0,0,0
+2017,United States of America,Ecuador,G / EO,1920,86,0,156,318
+2017,United States of America,Ecuador,G / AR,80,6,0,0,337
+2017,United States of America,Ecuador,G / IN,1964,79,0,106,2194
+2017,United States of America,Guyana,G / EO,19,0,0,5,0
+2017,United States of America,Guyana,G / AR,0,0,0,0,7
+2017,United States of America,Guyana,G / IN,113,5,0,0,26
+2017,United States of America,Haiti,G / EO,4825,85,0,1112,405
+2017,United States of America,Haiti,G / AR,40,6,0,40,103
+2017,United States of America,Haiti,G / IN,3818,72,0,67,294
+2017,United States of America,Iran (Islamic Rep. of),G / AR,0,44,0,0,38
+2017,United States of America,Iran (Islamic Rep. of),G / IN,691,238,0,89,117
+2017,United States of America,Iran (Islamic Rep. of),G / EO,75,10,0,22,23
+2017,United States of America,Iraq,G / EO,83,15,0,41,21
+2017,United States of America,Iraq,G / AR,13,41,0,18,67
+2017,United States of America,Iraq,G / IN,586,334,0,201,130
+2017,United States of America,Libya,G / AR,0,0,0,0,11
+2017,United States of America,Libya,G / EO,19,0,0,0,0
+2017,United States of America,Libya,G / IN,218,27,0,34,26
+2017,United States of America,Myanmar,G / AR,0,0,0,0,5
+2017,United States of America,Myanmar,G / EO,35,6,0,13,0
+2017,United States of America,Myanmar,G / IN,295,35,0,24,20
+2017,United States of America,Nigeria,G / AR,24,14,0,8,19
+2017,United States of America,Nigeria,G / EO,300,62,0,84,39
+2017,United States of America,Nigeria,G / IN,2752,97,0,91,68
+2017,United States of America,Pakistan,G / AR,13,49,0,5,81
+2017,United States of America,Pakistan,G / EO,397,44,0,76,40
+2017,United States of America,Pakistan,G / IN,1053,211,0,170,116
+2017,United States of America,Rwanda,G / EO,14,0,0,0,0
+2017,United States of America,Rwanda,G / AR,0,16,0,0,8
+2017,United States of America,Rwanda,G / IN,165,61,0,43,10
+2017,United States of America,Sudan,G / EO,64,12,0,19,17
+2017,United States of America,Sudan,G / AR,0,11,0,0,10
+2017,United States of America,Sudan,G / IN,193,53,0,41,44
+2017,United States of America,Senegal,G / EO,102,14,0,82,5
+2017,United States of America,Senegal,G / AR,0,5,0,0,16
+2017,United States of America,Senegal,G / IN,88,29,0,11,56
+2017,United States of America,El Salvador,G / EO,37304,1439,0,4278,2756
+2017,United States of America,El Salvador,G / AR,267,17,0,25,278
+2017,United States of America,El Salvador,G / IN,12155,2166,0,4183,1900
+2017,United States of America,Uganda,G / EO,20,8,0,0,0
+2017,United States of America,Uganda,G / AR,0,9,0,0,5
+2017,United States of America,Uganda,G / IN,618,97,0,49,27
+2017,United States of America,Venezuela (Bolivarian Republic of),G / EO,316,41,0,58,37
+2017,United States of America,Venezuela (Bolivarian Republic of),G / AR,302,27,0,8,35
+2017,United States of America,Venezuela (Bolivarian Republic of),G / IN,29610,411,0,139,226
+2017,United States of America,Yemen,G / EO,27,6,0,6,11
+2017,United States of America,Yemen,G / AR,5,0,0,0,0
+2017,United States of America,Yemen,G / IN,120,48,0,39,28
